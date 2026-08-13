@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
