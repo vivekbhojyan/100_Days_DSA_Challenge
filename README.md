@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
 ## Math
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
