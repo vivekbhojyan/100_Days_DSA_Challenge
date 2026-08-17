@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
