@@ -89,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
