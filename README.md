@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
