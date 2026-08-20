@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
+| [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
