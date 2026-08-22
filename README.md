@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0066-plus-one) |
