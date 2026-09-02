@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
 ## Tree
 |  |
 | ------- |
