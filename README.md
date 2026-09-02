@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
