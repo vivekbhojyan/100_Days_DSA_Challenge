@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1137-n-th-tribonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
