@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
