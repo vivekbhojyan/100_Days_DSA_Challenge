@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
