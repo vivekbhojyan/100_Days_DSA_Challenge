@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1137-n-th-tribonacci-number) |
+| [3870-count-commas-in-range](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
