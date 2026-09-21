@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0940-distinct-subsequences-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
