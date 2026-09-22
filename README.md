@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
+| [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [3903-smallest-stable-index-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
