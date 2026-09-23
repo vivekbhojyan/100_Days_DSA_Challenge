@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
 ## Tree
 |  |
