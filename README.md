@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
