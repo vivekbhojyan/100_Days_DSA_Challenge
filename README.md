@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
 ## Tree
 |  |
@@ -225,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
