@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
@@ -247,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
