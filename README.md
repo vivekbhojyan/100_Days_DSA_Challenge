@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -234,4 +235,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
