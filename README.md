@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
