@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0032-longest-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0940-distinct-subsequences-ii) |
