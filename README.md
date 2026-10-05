@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0989-add-to-array-form-of-integer) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3904-smallest-stable-index-ii) |
