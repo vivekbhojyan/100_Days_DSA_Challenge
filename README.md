@@ -272,10 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0933-number-of-recent-calls) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
