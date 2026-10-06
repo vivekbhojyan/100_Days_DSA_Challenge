@@ -14,6 +14,6 @@ class Solution {
                 count2++;
             }
         }
-        return Math.abs(count1+count2);
+        return (count1+count2);
     }
 }
