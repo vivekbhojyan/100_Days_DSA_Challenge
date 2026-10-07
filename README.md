@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0678-valid-parenthesis-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
