@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0342-power-of-four) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0678-valid-parenthesis-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
