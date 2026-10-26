@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0496-next-greater-element-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1051-height-checker) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0115-distinct-subsequences) |
+| [0435-non-overlapping-intervals](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0940-distinct-subsequences-ii) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
