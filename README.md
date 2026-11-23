@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1710-maximum-units-on-a-truck](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1710-maximum-units-on-a-truck) |
+| [1732-find-the-highest-altitude](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/3904-smallest-stable-index-ii) |
