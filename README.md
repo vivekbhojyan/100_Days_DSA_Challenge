@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0567-permutation-in-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0617-merge-two-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0301-remove-invalid-parentheses) |
 ## Pigeonhole Principle
 |  |
