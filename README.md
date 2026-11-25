@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0301-remove-invalid-parentheses) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0342-power-of-four) |
