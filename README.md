@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0205-isomorphic-strings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0326-power-of-three) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0342-power-of-four) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0844-backspace-string-compare) |
 ## Design
