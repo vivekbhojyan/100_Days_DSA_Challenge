@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0209-minimum-size-subarray-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vivekbhojyan/100_Days_DSA_Challenge/tree/master/0342-power-of-four) |
 ## Dynamic Programming
